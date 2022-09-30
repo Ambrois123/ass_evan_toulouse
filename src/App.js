@@ -1,10 +1,13 @@
 
+import Layout from './components/UI/Layout';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      Hello
+    <div>
+      <Layout>
+
+      </Layout>
     </div>
   );
 }
