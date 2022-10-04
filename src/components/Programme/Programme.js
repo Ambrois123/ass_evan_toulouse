@@ -25,7 +25,11 @@ function Programme() {
                     <Para>Intéressé ?</Para>
                     <Para>Contactez-nous au 06 79 27 32 52</Para>
                 </Div>
-                
+                <Div>
+                    <H>Réunion de prière les lundi à 20h</H>
+                    <Para>Dans les maisons</Para>
+                    <Para>Contactez-nous au 06 79 27 32 52</Para>
+                </Div>
             </Main>
     </Wrapper>
   )

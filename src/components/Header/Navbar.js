@@ -13,7 +13,7 @@ function Navbar() {
             <Menu isCurrentPage={location.pathname === "/"} >Qui sommes-nous?</Menu>
         </Link>
         <Link to='/Predication'>
-            <Menu isCurrentPage={location.pathname === "/"} >Predication</Menu>
+            <Menu isCurrentPage={location.pathname === "/"} >Prédications</Menu>
         </Link>
         <Link to='/Contact'>
             <Menu isCurrentPage={location.pathname === "/"} >Contact</Menu>

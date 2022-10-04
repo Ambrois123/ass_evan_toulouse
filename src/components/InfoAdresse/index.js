@@ -33,6 +33,8 @@ height: 300px;
 box-shadow: -1px -11px 12px -7px rgba(0,0,0,0.22);
 margin: 50px;
 padding: 15px;
+padding-top: 30px;
+padding-bottom: 30px;
 box-shadow: 0px 2.98256px 7.4564px rgb(0, 0, 0, 0.1);
 
 `;
