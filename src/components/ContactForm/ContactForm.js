@@ -27,7 +27,7 @@ class ContactForm extends Component {
                 alert("Votre message a été bien envoyé");
                 this.restForm()
             }else if(resp.data.status === 'fail'){
-                alert("Votre message n'a aps pu être envoyé");
+                alert("Votre message n'a pas pu être envoyé");
             }
         })
         
