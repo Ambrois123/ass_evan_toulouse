@@ -1,5 +1,6 @@
 {
   "name": "aegt_app",
+  "homepage": "http://www.aegtoulouse.fr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

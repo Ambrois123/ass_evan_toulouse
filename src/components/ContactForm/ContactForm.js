@@ -19,7 +19,7 @@ class ContactForm extends Component {
         event.preventDefault();
         axios({
             method: "POST",
-            url: "http://localhost/admin/server.php",
+            url: "http://domains/aegtoulouse.fr/public_html/admin/server.php",
             data: this.state
         }).then((resp)=>{
     
