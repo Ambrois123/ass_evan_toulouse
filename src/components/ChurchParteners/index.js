@@ -29,7 +29,7 @@ export default function ChurchParteners() {
           <p><a href="https://eglisegrace.org/" target="_blank" rel="noreferrer">Montpellier</a></p>
         </GridLogo>
         <GridLogo>
-        <a href="https://eglisegrace.org/" target="_blank" rel="noreferrer">
+        <a href="https://eegparis.org/" target="_blank" rel="noreferrer">
         <img src={Paris} alt="logo" />
         </a>
           <p><a href="https://eegparis.org/" target="_blank" rel="noreferrer">Paris</a></p>
